@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[seg:home|Door43 (seg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-seg|d43-seg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-seg/archive/master.zip|d43-seg.zip]]
+
+**Recent Changes**
+{{changes>ns = seg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/seg|Ethnologue data]]
+
